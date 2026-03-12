@@ -62,9 +62,9 @@ shape = "Beam"
 # text = "0x0f0f0f"
 
 # Monochrom-ish + Orange-Akzent
-# [colors.normal]
-# black   = "#151515"
-# red     = "#ff6a00"  # Orange Akzent (statt knallrot)
+[colors.normal]
+black   = "#151515"
+red     = "#ff6a00"  # Orange Akzent (statt knallrot)
 # green   = "#bfbfbf"
 # yellow  = "#ffb366"  # softer Orange-Ton
 # blue    = "#d0d0d0"
@@ -72,9 +72,9 @@ shape = "Beam"
 # cyan    = "#d8d8d8"
 # white   = "#e5e5e5"
 #
-# [colors.bright]
-# black   = "#3a3a3a"
-# red     = "#ff8a33"  # heller Orange-Ton
+[colors.bright]
+black   = "#3a3a3a"
+red     = "#ff8a33"  # heller Orange-Ton
 # green   = "#e0e0e0"
 # yellow  = "#ffd199"
 # blue    = "#f0f0f0"
